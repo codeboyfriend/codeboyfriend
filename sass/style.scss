@@ -72,15 +72,13 @@ a{
     }
 
     .wrapper :is(.btn, .link){
+        border-radius: 50%;
+        color: #151515;
+        background-color: #fff;
+        padding: 25px;
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        width: 50px;
-        height: 50px;
-        padding: 25px;
-        border-radius: 50%;
-        background-color: #fff;
-        color: #151515;
         transition: .5s;
     }
 
@@ -111,11 +109,4 @@ a{
 
 .active{
     color: #bb93fc;
-}
-
-@media (max-width: 425px) {
-    .container{
-        .wrapper :is(.btn, .link){
-         }
-    }
 }

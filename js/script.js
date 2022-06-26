@@ -1,5 +1,5 @@
 let btn = document.querySelector('.btn'),
-    home = document.querySelector('.home')
+    home = document.querySelector('.home'),
     modal = document.querySelector('.modal'),
     slide = document.querySelector('.slide'),
     msg = document.querySelector('.msg'),

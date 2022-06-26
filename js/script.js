@@ -10,16 +10,18 @@ let homeBtn = document.querySelector('.home'),
 homeBtn.addEventListener('click', () => {
     homeBtn.classList.toggle('active');
     toggleBtn();
-    // homeBtn.classList.add('fa-solid fa-xmark');
     if (homeBtn.classList.contains('active')) {
         modal.style.transform = 'translateX(-300px)';
         slide.style.transform = 'translateX(0px)';
         msg.style.opacity = 1;
+        homeBtn.classList.add('fa-xmark');
+        homeBtn.classList.remove('fa-circle-dot')
     }else {
         modal.style.transform = 'translateX(0px)';
         slide.style.transform = 'translateX(1400px)';
         msg.style.opacity = 0;
-        // homeBtn.innerHTML = '<i class="fa-solid fa-circle-dot"></i>';
+        homeBtn.classList.remove('fa-xmark');
+        homeBtn.classList.add('fa-circle-dot')
     }
 })
 

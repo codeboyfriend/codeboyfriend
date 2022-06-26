@@ -87,6 +87,11 @@ i{
         .link{
             background-color: #fff;
             transition: .5s;
+
+            &:hover{
+                outline: 3px solid #bb93fc;
+                outline-offset: -4px;
+            }
         }
     }
     

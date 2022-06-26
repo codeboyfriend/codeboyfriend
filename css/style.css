@@ -88,6 +88,11 @@ i {
   transition: .5s;
 }
 
+.wrapper_box .wrapper .link:hover {
+  outline: 3px solid #bb93fc;
+  outline-offset: -4px;
+}
+
 .active {
   outline: 3px solid #bb93fc;
   outline-offset: -4px;

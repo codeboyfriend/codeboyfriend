@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Hi 👋🏻, I'm Michael</h1>
+<h1>Hi 👋🏻, I'm Codeboyfriend</h1>
 
 I'm a frontend developer, currently looking for new opportunites
 
@@ -11,8 +11,8 @@ I'm a frontend developer, currently looking for new opportunites
 
 - 📚 I'm currently working on [**KipNote**](KipNote.netlify.app)
 - 💾 I'm currently learning Typescript
-- I'm looking to elaborate with other developer 
-- Next four months goal: Contrubute more to open source projects
+- 👯 I'm looking to elaborate with other developer 
+- 💼 Next four months goal: Contrubute more to open source projects
 - 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@koiin](Koiin.netlify.app), [@vidme](videme.netly.app) etc..
 - 👯 I’m looking for a software development internship
 - 💬 Ask me about anything, I am happy to help
@@ -25,11 +25,11 @@ I'm a frontend developer, currently looking for new opportunites
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Chakra](https://img.shields.io/badge/-Chakra-222222?style=flat&logo=Chakra&logoColor=61DAFB)
+![Chakra UI](https://img.shields.io/badge/-Chakra UI-222222?style=flat&logo=Chakraui&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=codeboyfriend&&show_icons=true&theme=radical&line_height=27&v=5" alt="Codeboyfriend's GitHub Stats" />
 
-⭐️ From [Michael](https://github.com/codeboyfriend)
+⭐️ From [Codeboyfriend](https://github.com/codeboyfriend)

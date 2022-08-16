@@ -25,7 +25,7 @@ I'm a frontend developer, currently looking for new opportunites
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Chakra UI](https://img.shields.io/badge/-Chakra UI-222222?style=flat&logo=Chakraui&logoColor=61DAFB)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-222222?style=flat&logo=Chakraui&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 

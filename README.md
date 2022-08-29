@@ -13,7 +13,7 @@ I'm a frontend developer, currently looking for new opportunites
 - 💾 I'm currently learning Typescript
 - 👯 I'm looking to elaborate with other developer 
 - 💼 Next four months goal: Contrubute more to open source projects
-- 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@koiin](Koiin.netlify.app), [@vidme](videme.netly.app) etc..
+- 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@koiin](Koiin.netlify.app), [@lively](lively.netlify.app) etc..
 - 👯 I’m looking for a software development internship
 - 💬 Ask me about anything, I am happy to help
 - 💼 I’m pursuing a Bachelor's degree in Accounting

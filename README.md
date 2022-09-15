@@ -30,5 +30,6 @@ I'm a frontend developer, currently looking for new opportunites
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=codeboyfriend&&show_icons=true&theme=radical&line_height=27&v=5" alt="Codeboyfriend's GitHub Stats" />
+<img src="https://github-readme-streak-stats.vercel.app/api?username=codeboyfriend&&show_icons=true&theme=radical&line_height=27&v=5 alt="Codeboyfriend's GitHub Stats" />
 
 ⭐️ From [Codeboyfriend](https://github.com/codeboyfriend)

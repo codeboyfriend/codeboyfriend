@@ -32,7 +32,7 @@ I'm a frontend developer, currently looking for new opportunites
 <img src="https://github-readme-stats.vercel.app/api?username=codeboyfriend&&show_icons=true&theme=radical&line_height=27&v=5" alt="Codeboyfriend's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeboyfriend&theme=radical&light" alt="Codeboyfriend Github Top-Lang" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeboyfriend&theme=radical&line" alt="Codeboyfriend's Github Streak-Stats" /> 
-<img src="https://activity-graph.herokuapp.com/graph?username=codeboyfriend&theme=radical&line" alt="Codeboyfriend's Github Graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=codeboyfriend&theme=rogue" alt="Codeboyfriend's Github Graph" />
 
 -----
 If you like it. Do fork🍴 and star🌟

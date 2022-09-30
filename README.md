@@ -9,8 +9,8 @@ I'm a frontend developer, currently looking for new opportunites
 
 -----
 
-- 📚 I'm currently working on [**KipNote**](KipNote.netlify.app)
-- 💾 I'm currently learning Typescript
+- 📚 I'm currently working on [**My Portfolio**](idky.netlify.app)
+- 💾 I'm currently learning Tailwind CSS
 - 👯 I'm looking to elaborate with other developer
 - 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@koiin](Koiin.netlify.app), [@lively](lively.netlify.app) etc..
 - 👯 I’m looking for a software development internship

@@ -9,14 +9,16 @@ I'm a frontend developer, currently looking for new opportunites
 
 -----
 
-- 📚 I'm currently working on [**My Portfolio**](idky.netlify.app)
+- 📚 I'm currently working on [My Portfolio](idky.netlify.app)
 - 💾 I'm currently learning Tailwind CSS
 - 👯 I'm looking to elaborate with other developer
-- 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@koiin](Koiin.netlify.app), [@lively](lively.netlify.app) etc..
+- 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@koiin](Koiin.netlify.app), [@lively](live-ly.netlify.app) etc..
 - 👯 I’m looking for a software development internship
 - 💬 Ask me about anything, I am happy to help
 - 💼 I’m pursuing a Bachelor's degree in Accounting
 - 😊 Fun fact: I love listening to music.
+
+Test your programming skill with [Kwiz](kwiiz.netlify.app). A quiz application with over 7 categories of language, Multiplayer is also available with Kwiz robot. Test yourself and see how great you are.
 
 ### Language & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)

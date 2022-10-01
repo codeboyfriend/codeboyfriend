@@ -18,8 +18,6 @@ I'm a frontend developer, currently looking for new opportunites
 - 💼 I’m pursuing a Bachelor's degree in Accounting
 - 😊 Fun fact: I love listening to music.
 
-Test your programming skill with [Kwiz](kwiiz.netlify.app). A quiz application with over 7 categories of language, Multiplayer is also available with Kwiz robot. Test yourself and see how great you are.
-
 ### Language & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
@@ -32,7 +30,11 @@ Test your programming skill with [Kwiz](kwiiz.netlify.app). A quiz application w
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=codeboyfriend&&show_icons=true&theme=radical&line_height=27&v=5" alt="Codeboyfriend's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeboyfriend&theme=radical&line" alt="Codeboyfriend's Github Streak-Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeboyfriend&theme=radical&line" alt="Codeboyfriend's Github Streak-Stats" />
+
+### Kwiz
+
+Test your programming skill with [Kwiz](kwiiz.netlify.app). A quiz application with over 7 categories of languages, Multiplayer is also available with Kwiz robot. Test yourself and see how great you are.
 
 -----
 If you like it. Do fork🍴 and star🌟

@@ -22,6 +22,7 @@ I'm a frontend developer, currently looking for new opportunites
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=Tailwindcss&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-222222?style=flat&logo=Chakraui&logoColor=61DAFB)

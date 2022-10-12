@@ -10,7 +10,6 @@ I'm a frontend developer, currently looking for new opportunites
 -----
 
 - 📚 Checkout [My Portfolio](idky.netlify.app)
-- 💾 I'm currently learning Tailwind CSS
 - 👯 I'm looking to elaborate with other developer
 - 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@koiin](Koiin.netlify.app), [@lively](live-ly.netlify.app) etc..
 - 👯 I’m looking for a software development internship

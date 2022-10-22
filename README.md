@@ -32,8 +32,13 @@ I'm a frontend developer, currently looking for new opportunites
 <img src="https://github-readme-stats.vercel.app/api?username=codeboyfriend&&show_icons=true&theme=radical&line_height=27&v=5" alt="Codeboyfriend's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeboyfriend&theme=radical&line" alt="Codeboyfriend's Github Streak-Stats" />
 
-### Kwiz
+## Top Projects
+### bChef
+My first Open Source Project. bChef is a recipe app with over 200 recipes accross the world. Search for a meal and it'll returns the full recipe and link to a full explanatory youtube video.
+Live: [bChef](https://bChef.netlify.app)
+Repo: [bChef](https:/codeboyfriend/bChef)
 
+### Kwiz
 Test your programming skill with [Kwiz](kwiiz.netlify.app). A quiz application with over 7 categories of languages, Multiplayer is also available with Kwiz robot. Test yourself and see how great you are.
 
 -----

@@ -11,10 +11,11 @@ I'm a frontend developer, currently looking for new opportunites
 
 - 📚 Checkout [My Portfolio](idky.netlify.app)
 - 👯 I'm looking to elaborate with other developer
-- 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@koiin](Koiin.netlify.app), [@lively](live-ly.netlify.app) etc..
+- 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@bChef](bChef.netlify.app), [@lively](live-ly.netlify.app) etc..
 - 👯 I’m looking for a software development internship
 - 💬 Ask me about anything, I am happy to help
 - 💼 I’m pursuing a Bachelor's degree in Accounting
+- 📸 Photographer in making
 - 😊 Fun fact: I love listening to music.
 
 ### Language & Tools

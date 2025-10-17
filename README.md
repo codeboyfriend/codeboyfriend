@@ -1,10 +1,10 @@
 <div align='center'>
-<h1>Hi 👋🏻, I'm Codeboyfriend</h1>
+<h1>Hi 👋🏻, I'm Michael</h1>
 
-I'm a frontend developer, currently looking for new opportunites
+I'm an accounting graduate | Data Analyst, transiting from FrontEnd to Data Analysis. Looking for new opportunites
 
 <a href="https://www.twitter.com/codeboyfriend" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
-<a href="https://www.instagram.com/codeboyfriend" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/mightymykel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 -----
@@ -12,21 +12,14 @@ I'm a frontend developer, currently looking for new opportunites
 - 📚 Checkout [My Portfolio](idky.netlify.app)
 - 👯 I'm looking to elaborate with other developer
 - 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@bChef](bChef.netlify.app), [@lively](live-ly.netlify.app) etc..
-- 👯 I’m looking for a software development internship
+- 👯 I’m looking for a data analysis internship
 - 💬 Ask me about anything, I am happy to help
-- 💼 I’m pursuing a Bachelor's degree in Accounting
-- 📸 Photographer in making
 - 😊 Fun fact: I love listening to music.
 
 ### Language & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
-![Tailwind](https://img.shields.io/badge/-Tailwind-222222?style=flat&logo=Tailwindcss&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-222222?style=flat&logo=Chakraui&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Microsoft Excel](https://img.shields.io/badge/-MsExcel-222222?style=flat&logo=Microsoft&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=mySQL&logoColor=61DAFB)
+![SSMS](https://img.shields.io/badge/-SSMS-222222?style=flat&logo=&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 
 ### Stats

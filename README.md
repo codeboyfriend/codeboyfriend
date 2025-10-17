@@ -11,7 +11,6 @@ I'm an accounting graduate | Data Analyst, transiting from FrontEnd to Data Anal
 
 - 📚 Checkout [My Portfolio](idky.netlify.app)
 - 👯 I'm looking to elaborate with other developer
-- 💅 Designed: [@sneeaker](Sneeakers.netlify.app), [@bChef](bChef.netlify.app), [@lively](live-ly.netlify.app) etc..
 - 👯 I’m looking for a data analysis internship
 - 💬 Ask me about anything, I am happy to help
 - 😊 Fun fact: I love listening to music.

@@ -10,7 +10,7 @@ I'm an accounting graduate | Data Analyst, transiting from FrontEnd to Data Anal
 -----
 
 - 📚 Checkout 
-- 👯 I'm looking to elaborate with other developer
+- 👯 I'm looking to elaborate with other analyst
 - 👯 I’m looking for a data analysis internship
 - 💬 Ask me about anything, I am happy to help
 - 😊 Fun fact: I love listening to music.

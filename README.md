@@ -4,7 +4,11 @@
 I'm an accounting graduate | Data Analyst, transiting from FrontEnd to Data Analysis. Looking for new opportunites
 
 <a href="https://www.twitter.com/codeboyfriend" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
-<a href="https://www.instagram.com/mightymykel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/acclyst" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=61DAFB" alt="LinkedIn"></a>
+</div>
+<div align='center'> 
+  
+![](https://komarev.com/ghpvc/?username=your-github-codeboyfriend&style=flat-square)
 </div>
 
 -----
@@ -18,6 +22,7 @@ I'm an accounting graduate | Data Analyst, transiting from FrontEnd to Data Anal
 ### Language & Tools
 ![Microsoft Excel](https://img.shields.io/badge/-MsExcel-222222?style=flat&logo=Microsoft&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=mySQL&logoColor=61DAFB)
+![Power BI](https://img.shields.io/badge/-PowerBI-222222?style=flat&logo=powerbi&logoColor=61DAFB)
 ![SSMS](https://img.shields.io/badge/-SSMS-222222?style=flat&logo=&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 
